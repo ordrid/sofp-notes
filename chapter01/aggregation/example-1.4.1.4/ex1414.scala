@@ -1,0 +1,1 @@
+def average(s: List[Double]): Double = s.sum / s.size
