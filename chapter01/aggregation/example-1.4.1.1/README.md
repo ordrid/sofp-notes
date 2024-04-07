@@ -2,7 +2,9 @@
 
 Improve the code for `isPrime` by limiting the search for $k^2 \leq n$:
 
-**Solution**: Use `takeWhile` to truncate the initial list when $k^2 \leq n$ becomes false:
+## Solution
+
+Use `takeWhile` to truncate the initial list when $k^2 \leq n$ becomes false:
 
 ```scala
 def isPrime(n: Int): Boolean =

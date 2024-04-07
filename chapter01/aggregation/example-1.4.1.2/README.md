@@ -4,7 +4,7 @@ Compute this product of absolute values:
 
 $$ \prod_{k \in [1, 10]} |\sin (k + 2)| $$
 
-**Solution**
+## Solution
 
 ```scala
 (1 to 10)
