@@ -1,0 +1,4 @@
+.bsp/
+.vscode/
+.idea/
+.scala-build/
